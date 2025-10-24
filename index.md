@@ -3,3 +3,9 @@
 ### Hehehehe
 hahahehe headers markers
 
+``` javascript
+var myVar = "Hello, world!";
+```
+``` python
+print("python")
+``` 
